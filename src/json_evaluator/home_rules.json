@@ -1,0 +1,6 @@
+{
+    "Windows": [ "\\", "Users", "$username" ],
+    "Linux": [ "/", "home", "$username" ],
+    "MacOS": [ "/", "Users", "$username" ],
+    "Android": [ "/", "data", "media", "$userid" ]
+}
